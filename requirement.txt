@@ -1,0 +1,8 @@
+opencv-python==4.5.4.58
+numpy==1.23.5
+matplotlib==3.6.2
+pytesseract==0.3.10
+craft-text-detector==0.4.3
+scikit-image==0.19.3
+imutils==0.5.4
+scikit-learn==1.2.0
